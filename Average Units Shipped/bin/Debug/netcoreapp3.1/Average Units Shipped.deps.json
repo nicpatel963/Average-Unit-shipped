@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Average Units Shipped/1.0.0": {
+        "runtime": {
+          "Average Units Shipped.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Average Units Shipped/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

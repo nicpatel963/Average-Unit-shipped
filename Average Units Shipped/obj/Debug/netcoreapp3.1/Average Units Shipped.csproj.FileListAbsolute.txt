@@ -1,0 +1,14 @@
+E:\BE-subjects\C#.NET\Average Units Shipped\bin\Debug\netcoreapp3.1\Average Units Shipped.exe
+E:\BE-subjects\C#.NET\Average Units Shipped\bin\Debug\netcoreapp3.1\Average Units Shipped.deps.json
+E:\BE-subjects\C#.NET\Average Units Shipped\bin\Debug\netcoreapp3.1\Average Units Shipped.runtimeconfig.json
+E:\BE-subjects\C#.NET\Average Units Shipped\bin\Debug\netcoreapp3.1\Average Units Shipped.runtimeconfig.dev.json
+E:\BE-subjects\C#.NET\Average Units Shipped\bin\Debug\netcoreapp3.1\Average Units Shipped.dll
+E:\BE-subjects\C#.NET\Average Units Shipped\bin\Debug\netcoreapp3.1\Average Units Shipped.pdb
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.csproj.AssemblyReference.cache
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.GeneratedMSBuildEditorConfig.editorconfig
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.AssemblyInfoInputs.cache
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.AssemblyInfo.cs
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.csproj.CoreCompileInputs.cache
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.dll
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.pdb
+E:\BE-subjects\C#.NET\Average Units Shipped\obj\Debug\netcoreapp3.1\Average Units Shipped.genruntimeconfig.cache
