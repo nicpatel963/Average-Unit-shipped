@@ -1,0 +1,10 @@
+C:\Users\nic\source\repos\Average Units Shipped\bin\Debug\Average Units Shipped.exe.config
+C:\Users\nic\source\repos\Average Units Shipped\bin\Debug\Average Units Shipped.exe
+C:\Users\nic\source\repos\Average Units Shipped\bin\Debug\Average Units Shipped.pdb
+C:\Users\nic\source\repos\Average Units Shipped\obj\Debug\Average Units Shipped.csproj.AssemblyReference.cache
+C:\Users\nic\source\repos\Average Units Shipped\obj\Debug\Average_Units_Shipped.Form1.resources
+C:\Users\nic\source\repos\Average Units Shipped\obj\Debug\Average_Units_Shipped.Properties.Resources.resources
+C:\Users\nic\source\repos\Average Units Shipped\obj\Debug\Average Units Shipped.csproj.GenerateResource.cache
+C:\Users\nic\source\repos\Average Units Shipped\obj\Debug\Average Units Shipped.csproj.CoreCompileInputs.cache
+C:\Users\nic\source\repos\Average Units Shipped\obj\Debug\Average Units Shipped.exe
+C:\Users\nic\source\repos\Average Units Shipped\obj\Debug\Average Units Shipped.pdb
